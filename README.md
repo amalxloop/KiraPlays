@@ -68,7 +68,7 @@ KiraPlays is a Flutter-based movie and TV show streaming application that provid
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/kodify-js/KiraPlays.git
+git clone https://github.com/amalxloop/KiraPlays.git
 cd KiraPlays
 ```
 
