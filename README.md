@@ -1,10 +1,7 @@
-# MovieDex - Open Source Movie Streaming App
+# KiraPlays - Open Source Movie Streaming App
 
-<p align="center">
-  <img src="assets/images/screenshot-1.jpg" alt="MovieDex">
-</p>
 
-MovieDex is a Flutter-based movie and TV show streaming application that provides a beautiful user interface and rich features for streaming enthusiasts.
+KiraPlays is a Flutter-based movie and TV show streaming application that provides a beautiful user interface and rich features for streaming enthusiasts.
 
 ## Features
 
@@ -71,8 +68,8 @@ MovieDex is a Flutter-based movie and TV show streaming application that provide
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/kodify-js/MovieDex.git
-cd MovieDex
+git clone https://github.com/kodify-js/KiraPlays.git
+cd KiraPlays
 ```
 
 2. Install dependencies:
