@@ -5,7 +5,7 @@ Thank you for your interest in contributing to MovieDex! This document provides 
 ## Project Structure
 
 ```
-MovieDex/
+KiraPlays/
 ├── lib/
 │   ├── api/                    # API related code
 │   │   ├── class/             # Data models and classes
